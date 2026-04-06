@@ -64,7 +64,7 @@ Priorisiere Nachrichten aus: Chemie, Pharma, Lebensmittel & Getränke. Andere Br
 # Marktbeobachtung – YYYY-MM-DD (Tag)
 
 ## Highlights
-- Wichtigste 2-3 Neuigkeiten des Tages
+- Wichtigste 2-3 Neuigkeiten des Tages – IMMER mit Quellen-Link [Quelle](url)
 
 ## Wettbewerber
 - **Name:** Entwicklung [Quelle](url)
