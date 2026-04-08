@@ -6,14 +6,18 @@
 |---|---|---|
 | Fasspumpe | barrel pump, drum pump | pompe à fût |
 | Containerpumpe | container pump, IBC pump | pompe pour conteneur |
-| Exzenterschneckenpumpe | progressive cavity pump | pompe à vis excentrée |
+| Exzenterschneckenpumpe, VISCOPOWER | progressive cavity pump | pompe à vis excentrée |
 | Membranpumpe | diaphragm pump | pompe à membrane |
+| Druckluft-Membranpumpe, Doppelmembranpumpe | air-operated diaphragm pump (AODD) | pompe à membrane pneumatique |
 | Schlauchpumpe | peristaltic pump | pompe péristaltique |
-| Abfüllsystem | filling system | système de remplissage |
-| Fassentleerung | drum emptying | vidange de fûts |
+| Tauchkreiselpumpe | submersible centrifugal pump | pompe centrifuge immergée |
+| Magnetkreiselpumpe | magnetic drive pump, mag-drive pump | pompe à entraînement magnétique |
 | Dosierpumpe | metering pump | pompe doseuse |
+| Abfüllsystem | filling system | système de remplissage |
+| Fassentleerung, Fassentleerungssystem | drum emptying, drum emptying system | vidange de fûts |
 | Durchflussmesser | flow meter | débitmètre |
-| Druckluft-Membranpumpe | air-operated diaphragm pump (AODD) | pompe à membrane pneumatique |
+| Mischer, Rührwerk | mixer, agitator | mélangeur, agitateur |
+| Akkupumpe, kabellose Pumpe | battery-operated pump, cordless pump | pompe sans fil, pompe à batterie |
 
 ## Technologie
 
