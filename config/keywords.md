@@ -58,6 +58,7 @@
 - Elektrifizierung / Akkutechnologie Pumpen
 - Piezoelektrische Pumpen / motorless pumps
 - Digitaler Zwilling Pumpe / digital twin
+- Digitaler Produktpass / Digital Product Passport / DPP
 
 ## Suchstrategie (Rotation über die Woche)
 
