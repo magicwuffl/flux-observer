@@ -23,8 +23,8 @@ Recherchiere aktuelle Entwicklungen in der Pumpenindustrie und erstelle einen st
 2. Führe gezielte Web-Suchen durch (siehe Limits unten)
 3. Filtere: Nur wirklich neue, relevante Informationen
 4. Schreibe den Report nach `reports/daily/YYYY-MM-DD-tag.md` (z.B. `2026-04-07-mo.md`)
-5. Am Freitag: Zusätzlich Wochen-Digest nach `reports/weekly/YYYY-WXX.md`
-6. Committe und pushe die neuen Reports
+5. **Am Freitag: IMMER zusätzlich einen Wochen-Digest nach `reports/weekly/YYYY-WXX.md` erstellen.** Lies dafür die Reports der Woche (Mo + Mi + aktueller Fr) und erstelle eine konsolidierte Zusammenfassung mit Trend-Bewertung und Wettbewerber-Ranking. Das ist Pflicht, nicht optional.
+6. Committe und pushe die neuen Reports (bei Freitag: beide Dateien in einem Commit)
 
 ### Token-Limits (WICHTIG)
 
@@ -37,14 +37,24 @@ Recherchiere aktuelle Entwicklungen in der Pumpenindustrie und erstelle einen st
 ### Suchstrategie
 
 Kombiniere pro Suche mehrere Keywords für gezielte Ergebnisse. Beispiele:
-- `"Lutz Pumpen" OR "Jessberger" OR "Grün Pumpen" neue Produkte 2026`
+- `"Lutz Pumpen" OR "Jessberger" OR "Tapflo" OR "IST Pumpen" neue Produkte 2026`
+- `"Graco" OR "Packo" OR "Finish Thompson" barrel pump drum pump news`
 - `Exzenterschneckenpumpe OR "progressive cavity pump" Innovation`
 - `ACHEMA OR POWTECH OR "Hannover Messe" Pumpen 2026`
 - `ATEX OR PFAS OR FDA Pumpe Regulierung`
 - `site:process.vogel.de OR site:chemietechnik.de Pumpe`
 - `"barrel pump" OR "drum pump" OR "pompe à fût" nouveauté`
+- `KSB OR Grundfos OR Wilo acquisition merger pump` (nur Mittwoch, strategische Entwicklungen)
 
-Rotiere Suchen über die Woche: Mo = Wettbewerber + Technologie, Mi = Branchen + Regulierung, Fr = Messen + Zusammenfassung.
+Rotiere Suchen über die Woche: Mo = Direktwettbewerber + Technologie, Mi = Branchen + Regulierung + Großkonzerne (strategisch), Fr = Messen + Zusammenfassung + Wochen-Digest.
+
+### Branchenkontext (Großkonzerne)
+
+In `config/competitors.md` gibt es eine Kategorie "Branchenkontext" (KSB, Grundfos, Wilo, Sulzer, Flowserve, Xylem, GEA). Diese nur berichten bei:
+- M&A-Aktivitäten, Übernahmen
+- Marktverschiebungen, die das Fass/Container-Segment betreffen
+- Regulatorische Entscheidungen mit Auswirkungen auf FLUX
+- NICHT bei normalen Produktneuheiten oder Quartalszahlen
 
 ### Sprachen
 

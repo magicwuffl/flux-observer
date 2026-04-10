@@ -35,6 +35,9 @@
 - Lebensmittelverarbeitung / food processing / CIP / SIP
 - Gefahrstoffe / hazardous fluids
 - Reinmedien / high-purity fluids
+- Kosmetik / cosmetics / cosmétiques
+- Lacke & Farben / coatings / peintures
+- Galvanik / electroplating
 
 ## Regulierung
 
@@ -52,11 +55,14 @@
 - Automatisierung Abfüllung
 - Robotik-Integration Fluid Handling
 - Retrofit / Modernisierung Bestandsanlagen
+- Elektrifizierung / Akkutechnologie Pumpen
+- Piezoelektrische Pumpen / motorless pumps
+- Digitaler Zwilling Pumpe / digital twin
 
 ## Suchstrategie (Rotation über die Woche)
 
 | Tag | Schwerpunkt | Beispiel-Suchen |
 |---|---|---|
-| Montag | Wettbewerber + Technologie | Wettbewerber-Namen + neue Produkte, Technologie-Keywords |
-| Mittwoch | Branchen + Regulierung | Kernbranchen + Pumpe, Regulierungs-Keywords |
-| Freitag | Messen + Zusammenfassung | Messe-Namen, Wochen-Rückblick |
+| Montag | Wettbewerber + Technologie | Direktwettbewerber + neue Produkte, Technologie-Keywords |
+| Mittwoch | Branchen + Regulierung | Kernbranchen + Pumpe, Regulierungs-Keywords, Großkonzerne (nur strategisch) |
+| Freitag | Messen + Zusammenfassung + Wochen-Digest | Messe-Namen, Wochen-Rückblick, Trend-Bewertung |
