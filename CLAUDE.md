@@ -56,6 +56,11 @@ In `config/competitors.md` gibt es eine Kategorie "Branchenkontext" (KSB, Grundf
 - Regulatorische Entscheidungen mit Auswirkungen auf FLUX
 - NICHT bei normalen Produktneuheiten oder Quartalszahlen
 
+### Nicht berichten
+                                                                                                                                                                  
+- Hersteller für Präzisions-/Mikrodosierung, Spritzlackierung oder Labortechnik (z.B. Graco, Nordson, Viscotec, Bürkle, Finish Thompson) sind NICHT relevant. Auch
+- Beinlich Pumps (Zahnradpumpen/Hydraulik) hat keinen Bezug zum FLUX-Wettbewerbsumfeld. Diese Firmen in Suchergebnissen überspringen. 
+
 ### Sprachen
 
 Recherchiere auf Deutsch, Englisch und Französisch. Markiere nicht-deutsche Quellen mit [EN] oder [FR].
