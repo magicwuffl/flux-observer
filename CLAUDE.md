@@ -20,11 +20,27 @@ Recherchiere aktuelle Entwicklungen in der Pumpenindustrie und erstelle einen st
 ### Ablauf pro Lauf
 
 1. Lies `config/competitors.md`, `config/sources.md`, `config/keywords.md`, `config/roles.md`
-2. Führe gezielte Web-Suchen durch (siehe Limits unten)
-3. Filtere: Nur wirklich neue, relevante Informationen
-4. Schreibe den Report nach `reports/daily/YYYY-MM-DD-tag.md` (z.B. `2026-04-07-mo.md`)
-5. **Am Freitag: IMMER zusätzlich einen Wochen-Digest nach `reports/weekly/YYYY-WXX.md` erstellen.** Lies dafür die Reports der Woche (Mo + Mi + aktueller Fr) und erstelle eine konsolidierte Zusammenfassung mit Trend-Bewertung und Wettbewerber-Ranking. Das ist Pflicht, nicht optional.
-6. Committe und pushe die neuen Reports (bei Freitag: beide Dateien in einem Commit)
+2. **Lies `incoming/YYYY-MM-DD/*.json`** – frisch gescrapte Wettbewerber-/FLUX-News-Items von offiziellen News-Seiten (Details s. Abschnitt "Incoming-Quellen"). Diese **vor** den Web-Suchen sichten und thematisch filtern.
+3. Führe gezielte Web-Suchen durch (siehe Limits unten) – **ergänzend** zu Incoming-Items, nicht ersetzend
+4. Filtere: Nur wirklich neue, relevante Informationen
+5. Schreibe den Report nach `reports/daily/YYYY-MM-DD-tag.md` (z.B. `2026-04-07-mo.md`)
+6. **Am Freitag: IMMER zusätzlich einen Wochen-Digest nach `reports/weekly/YYYY-WXX.md` erstellen.** Lies dafür die Reports der Woche (Mo + Mi + aktueller Fr) und erstelle eine konsolidierte Zusammenfassung mit Trend-Bewertung und Wettbewerber-Ranking. Das ist Pflicht, nicht optional.
+7. Committe und pushe die neuen Reports (bei Freitag: beide Dateien in einem Commit)
+
+### Incoming-Quellen (gescrapte Direktquellen)
+
+Vor jedem Lauf laeuft eine GitHub Action `.github/workflows/scrape-news.yml`, die News-Listings der wichtigsten Wettbewerber **und FLUX selbst** abgreift (RSS first, sonst HTML-Heuristik mit `link_pattern`) und als JSON nach `incoming/YYYY-MM-DD/<slug>.json` schreibt. Konfiguration: `config/news-sources.yaml`. Skript: `scrapers/scrape_competitors.py`.
+
+**Verwendung im Report:**
+- Wettbewerber-Items aus Incoming **direkt zitieren** mit Quellen-Link – das ist die Original-Pressemeldung, nicht die paraphrasierte Fachmedien-Variante.
+- **FLUX-Items in einem eigenen Abschnitt "Eigene Aktivitaeten"** im Report. Damit hast du den Vergleichspunkt zur eigenen Sichtbarkeit pro Woche und siehst, was die Wettbewerber zeitgleich publizieren.
+- Wenn ein Incoming-Item bereits in einem frueheren Report war: weglassen.
+- Web-Suchen **dienen der Anreicherung** (Branchenmedien, Messen, Regulierung), nicht der Wiederholung dessen, was schon im Incoming steht.
+
+**Self-Monitoring (FLUX im eigenen Vergleich):**
+- Die Quellen `flux-news` und `flux-messen` sind als `category: self` markiert.
+- Im Wochen-Digest ein **Self-vs-Wettbewerb-Block** ("FLUX: X Posts diese Woche / Lutz: Y / NETZSCH: Z"). Dafuer in den letzten 7 Tagen `incoming/`-Files zaehlen.
+- Wenn FLUX zwei Wochen lang **nichts** publiziert, das im Wochen-Digest als Trend-Hinweis fuer Marketing erwaehnen.
 
 ### Token-Limits (WICHTIG)
 

@@ -1,0 +1,78 @@
+{
+  "source": "watson-marlow",
+  "name": "Watson-Marlow",
+  "category": "technology",
+  "scraped_at": "2026-04-27T13:35:16.064651Z",
+  "items": [
+    {
+      "id": "90a9fb89a3cd867f",
+      "title": "Our values",
+      "link": "https://www.wmftg.com/en/about/our-company/our-values/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "1a82520c093790f1",
+      "title": "ISO certificates and quality documents",
+      "link": "https://www.wmftg.com/en/resources/quality-documents/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "a41d981165a8e84a",
+      "title": "Watson-Marlow Pumps",
+      "link": "https://www.wmftg.com/en/brands/watson-marlow-peristaltic-pumps/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "e566f6c611ce2763",
+      "title": "Flexicon aseptic liquid filling",
+      "link": "https://www.wmftg.com/en/brands/flexicon/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "02ccbeb144a82e74",
+      "title": "Request full validation guides",
+      "link": "https://www.wmftg.com/en/resources/validation/request/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "92bc7092f476406c",
+      "title": "Validation testing",
+      "link": "https://www.wmftg.com/en/wmarchitect/single-use-assemblies/wmarchitect-validation-testing/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "2d506630e0b5f4d2",
+      "title": "New Bredel CIP pump for energy-efficient and simplified clean-in-place",
+      "link": "https://www.wmftg.com/en/newsroom/news/new-bredel-cip-pump/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "4c001e6c74fd136b",
+      "title": "WMFTS launches WMArchitect™ Interchangeable Parts",
+      "link": "https://www.wmftg.com/en/newsroom/news/wmfts-launches-wmarchitect-interchangeable-parts/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "6703a0649de0ecce",
+      "title": "Validation summary guides",
+      "link": "https://www.wmftg.com/en/resources/validation/summary-guides/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "102b8f473ed5bb2f",
+      "title": "Range replacements",
+      "link": "https://www.wmftg.com/en/support/product-support/replacement-products/",
+      "published": null,
+      "summary": ""
+    }
+  ]
+}

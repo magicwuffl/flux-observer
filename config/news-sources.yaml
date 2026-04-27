@@ -1,0 +1,162 @@
+# News-Quellen fuer den Observer-Scraper.
+# Pro Quelle:
+#   name      – Anzeigename
+#   category  – self | direct | technology | context  (siehe competitors.md)
+#   url       – Hauptseite oder News-Listing-URL (Fallback fuer Auto-Discovery + HTML-Scrape)
+#   rss       – optional: bekannter RSS/Atom-Feed. Wenn gesetzt, wird Auto-Discovery uebersprungen.
+#   html      – optional: { container, item, title, link, date } CSS-Selektoren fuer HTML-Fallback,
+#               wenn keine RSS-Quelle gefunden wird. Wenn leer: Heuristik (article/h2/time).
+#   keywords  – optional: Stichworte fuer Titel-Filter. Wenn gesetzt, werden nur Items aufgenommen,
+#               deren Titel mind. einen Match enthaelt (case-insensitive). Sonst alle.
+#   max_items – optional: Cap pro Lauf (Default 10).
+#
+# RSS-First-Logik im Scraper:
+#   1. wenn rss gesetzt: nutzen
+#   2. sonst Auto-Discovery via <link rel="alternate" type="application/rss+xml">
+#   3. sonst HTML-Heuristik (oder html-Selektoren wenn definiert)
+#
+# Stichworte sind absichtlich breit – die LLM-Filterung passiert spaeter im Agent.
+
+# === SELF: FLUX-GERAETE GMBH (eigener Vergleichspunkt) ===
+
+- name: FLUX-GERAETE GMBH (Neuigkeiten)
+  slug: flux-news
+  category: self
+  url: https://www.flux-pumps.com/de-DE/aktuelles/neuigkeiten.html
+  link_pattern: '/aktuelles/artikel/'
+  keywords: []
+  max_items: 15
+
+- name: FLUX-GERAETE GMBH (Messen)
+  slug: flux-messen
+  category: self
+  url: https://www.flux-pumps.com/de-DE/aktuelles/messen.html
+  link_pattern: '/aktuelles/(messen|artikel)/'
+  keywords: []
+  max_items: 10
+
+- name: FLUX LinkedIn (Pressemitteilungen via RSS-Bridge)
+  slug: flux-linkedin
+  category: self
+  url: https://www.linkedin.com/company/flux-pumpen/posts/
+  # LinkedIn liefert kein RSS; Auto-Discovery laeuft ins Leere. Wir lassen die Quelle
+  # vorerst inaktiv – sobald ein RSS-Bridge-Endpunkt steht, hier eintragen.
+  enabled: false
+
+# === DIRECT (direkte Wettbewerber Fass-/Behaelterpumpen) ===
+
+- name: Lutz Pumpen
+  slug: lutz-pumpen
+  category: direct
+  url: https://www.lutz-pumpen.de/
+  # Bot-Schutz auf /de/* (HTTP 400). Root liefert 200 -> Auto-Discovery probieren.
+  keywords: []
+
+- name: Jessberger
+  slug: jessberger
+  category: direct
+  url: https://www.jesspumpen.de/news/
+  keywords: []
+
+- name: Gruen Pumpen
+  slug: gruen-pumpen
+  category: direct
+  url: https://www.gruen-pumpen.de/
+  keywords: []
+
+- name: Finish Thompson
+  slug: finish-thompson
+  category: direct
+  url: https://www.finishthompson.com/news/
+  keywords: []
+
+- name: Tapflo
+  slug: tapflo
+  category: direct
+  url: https://tapflo.com/en/news/
+  keywords: []
+
+- name: Graco
+  slug: graco
+  category: direct
+  url: https://news.graco.com/
+  # Cloudflare blockt Curl/Requests (000) – auto-disabled bis Workaround vorhanden.
+  enabled: false
+  keywords: []
+
+- name: IST Pumpen
+  slug: ist-pumpen
+  category: direct
+  url: https://www.istpumpen.de/
+  # SSL-Probleme bei direktem Aufruf der Listing-URL – auto-disabled.
+  enabled: false
+  keywords: []
+
+- name: Packo Pumps
+  slug: packo
+  category: direct
+  url: https://www.packopumps.com/en/news
+  keywords: []
+
+# === TECHNOLOGY (Exzenterschnecken, Membran, Schlauch, Dosierung) ===
+
+- name: NETZSCH Pumps & Systems
+  slug: netzsch
+  category: technology
+  url: https://pumps.netzsch.com/de
+  # Cloudflare blockt headless Requests (HTTP 403) – auto-disabled.
+  # Agent deckt NETZSCH-News weiterhin ueber Web-Suche ab.
+  enabled: false
+  keywords:
+    - pumpe
+    - pump
+    - exzenterschnecke
+    - nemo
+    - tornado
+    - notos
+
+- name: SEEPEX
+  slug: seepex
+  category: technology
+  url: https://www.seepex.com/de
+  # Cloudflare/Imperva blockt headless Requests (HTTP 429) – auto-disabled.
+  enabled: false
+  keywords: []
+
+- name: Watson-Marlow
+  slug: watson-marlow
+  category: technology
+  url: https://www.wmftg.com/en/news/
+  keywords: []
+
+- name: Verder
+  slug: verder
+  category: technology
+  url: https://www.verder.com/news/
+  keywords: []
+
+- name: Wilden / PSG
+  slug: wilden-psg
+  category: technology
+  url: https://www.psgdover.com/wilden/news/all-news
+  keywords: []
+
+- name: ARO / Ingersoll Rand
+  slug: aro
+  category: technology
+  url: https://www.arozone.com/news
+  # Cloudflare blockt headless (HTTP 429) – auto-disabled.
+  enabled: false
+  keywords: []
+
+- name: ProMinent
+  slug: prominent
+  category: technology
+  url: https://www.prominent.com/de/
+  keywords: []
+
+- name: LEWA
+  slug: lewa
+  category: technology
+  url: https://www.lewa.com/
+  keywords: []

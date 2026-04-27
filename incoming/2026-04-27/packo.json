@@ -1,0 +1,22 @@
+{
+  "source": "packo",
+  "name": "Packo Pumps",
+  "category": "direct",
+  "scraped_at": "2026-04-27T13:35:09.888512Z",
+  "items": [
+    {
+      "id": "43900371e18ad250",
+      "title": "2",
+      "link": "https://www.packopumps.com/int/en/news/2/",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "cc3e180a375b49b9",
+      "title": "3",
+      "link": "https://www.packopumps.com/int/en/news/3/",
+      "published": null,
+      "summary": ""
+    }
+  ]
+}
