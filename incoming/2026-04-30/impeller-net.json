@@ -1,0 +1,78 @@
+{
+  "source": "impeller-net",
+  "name": "impeller.net (Online-Pumpenmagazin)",
+  "category": "media",
+  "scraped_at": "2026-04-30T12:58:17.383975Z",
+  "items": [
+    {
+      "id": "7ed141de1f3d189f",
+      "title": "IBECO Ingenjörsfirma F. Berglund & Co Aktiebolag",
+      "link": "https://impeller.net/company-catalog/ibeco-ingenjorsfirma-f-berglund-co-aktiebolag/",
+      "published": "2026-04-29",
+      "summary": "<p>part of UNIWATER AB</p>\nThe post <a href=\"https://impeller.net/company-catalog/ibeco-ingenjorsfirma-f-berglund-co-aktiebolag/\">IBECO Ingenjörsfirma F. Berglund & Co Aktiebolag</a> first appeared on <a href=\"https://impeller.net\">impeller.net</a>."
+    },
+    {
+      "id": "996c9606ffaf74ae",
+      "title": "Hydrolevel Company",
+      "link": "https://impeller.net/company-catalog/hydrolevel-company/",
+      "published": "2026-04-15",
+      "summary": ""
+    },
+    {
+      "id": "06be9af9012c4c8e",
+      "title": "Grundfos Pumps Ltd.",
+      "link": "https://impeller.net/company-catalog/grundfos-pumps-ltd/",
+      "published": "2026-03-31",
+      "summary": ""
+    },
+    {
+      "id": "aa35a3bc2e511c4c",
+      "title": "Tecnica de Fluidos (TDF Group)",
+      "link": "https://impeller.net/company-catalog/tecnica-de-fluidos/",
+      "published": "2026-03-31",
+      "summary": ""
+    },
+    {
+      "id": "36f661d6e20f0316",
+      "title": "SIG Construction Accessories (SIG Trading Limited)",
+      "link": "https://impeller.net/company-catalog/sig-construction-accessories-sig-trading-limited/",
+      "published": "2026-03-23",
+      "summary": ""
+    },
+    {
+      "id": "1333c8dee28a8c0d",
+      "title": "Lubrication Engineers, Inc.",
+      "link": "https://impeller.net/company-catalog/lubrication-engineers-inc/",
+      "published": "2026-02-23",
+      "summary": ""
+    },
+    {
+      "id": "f00b2201fc3ac66f",
+      "title": "Packo Inox Ltd",
+      "link": "https://impeller.net/company-catalog/packo-inox-ltd/",
+      "published": "2026-02-09",
+      "summary": ""
+    },
+    {
+      "id": "7c33665ffe3feafd",
+      "title": "GEA Foundation",
+      "link": "https://impeller.net/company-catalog/gea-foundation/",
+      "published": "2025-12-18",
+      "summary": ""
+    },
+    {
+      "id": "7e9d4e4d20452b37",
+      "title": "Wioniq Group",
+      "link": "https://impeller.net/company-catalog/wioniq-group-dach/",
+      "published": "2025-11-26",
+      "summary": ""
+    },
+    {
+      "id": "cc0c989027853378",
+      "title": "Victaulic",
+      "link": "https://impeller.net/company-catalog/victaulic/",
+      "published": "2025-11-25",
+      "summary": ""
+    }
+  ]
+}

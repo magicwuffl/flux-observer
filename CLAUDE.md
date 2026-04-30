@@ -38,9 +38,23 @@ Vor jedem Lauf laeuft eine GitHub Action `.github/workflows/scrape-news.yml`, di
 - Web-Suchen **dienen der Anreicherung** (Branchenmedien, Messen, Regulierung), nicht der Wiederholung dessen, was schon im Incoming steht.
 
 **Self-Monitoring (FLUX im eigenen Vergleich):**
-- Die Quellen `flux-news` und `flux-messen` sind als `category: self` markiert.
-- Im Wochen-Digest ein **Self-vs-Wettbewerb-Block** ("FLUX: X Posts diese Woche / Lutz: Y / NETZSCH: Z"). Dafuer in den letzten 7 Tagen `incoming/`-Files zaehlen.
-- Wenn FLUX zwei Wochen lang **nichts** publiziert, das im Wochen-Digest als Trend-Hinweis fuer Marketing erwaehnen.
+- Die Quellen `flux-news` und `flux-messen` sind als `category: self` markiert (= FLUX-Eigenpublikation).
+- Die Aggregator-Quelle `google-news-flux-de` (`category: aggregator`) liefert **FLUX-Erwähnungen in Drittquellen** (Fachpresse, Anwenderberichte, regionale Medien). Das ist etwas völlig anderes als die eigene Newsroom-Aktivität.
+- Im Wochen-Digest ein **Self-vs-Wettbewerb-Block** ("FLUX intern: X Posts / FLUX extern: Y Erwähnungen / Lutz: Z / NETZSCH: A"). Dafür in den letzten 7 Tagen `incoming/`-Files getrennt nach `category` zählen.
+- Wenn FLUX zwei Wochen lang **nichts** publiziert, im Wochen-Digest als Trend-Hinweis für Marketing erwähnen.
+
+**Pflicht-Slot Montag — FLUX-Drittquellen-Recherche:**
+Zusätzlich zu den Items aus `incoming/google-news-flux-de.json` reservierst du **eine** der 6 Web-Suchen am Montag für aktive FLUX-Drittquellen-Recherche. Beispiel-Query:
+`"FLUX-Geräte" OR VISCOPOWER OR FLUXTRONIC OR "FLUX pumps" site:linkedin.com OR site:process.vogel.de OR site:chemietechnik.de`
+Treffer landen in der Sektion **„FLUX in Drittquellen"** (siehe Report-Format unten), **nicht** in „Eigene Aktivitäten". Wenn keine Treffer: explizit `- Keine externen Erwähnungen heute.`.
+
+**Publish-Date-Marker (Pflicht):**
+Jedes Bullet, das aus einem `incoming/`-Item übernommen wird, bekommt am Ende den Marker `[YYYY-MM-DD]` mit dem `published`-Datum aus dem Item. Beispiel:
+`- **Mühlacker Tagblatt: ...** [Quelle](url) [DE] [2025-07-16]`
+Der Brand-Guide-Parser extrahiert diesen Marker und zeigt das Datum im UI an. Items älter als 6 Monate werden im UI als „archiv" markiert. Wenn `published` im incoming-File `null` ist, kein Marker setzen.
+
+**Aktualitäts-Filter:**
+FLUX-Drittquellen-Items mit `published_date` > 12 Monate alt nur dann übernehmen, wenn sie inhaltlich noch wertvoll sind (z.B. großer Branchenartikel, Auszeichnung). Sonst weglassen. Für Wettbewerber-Items: maximal 3 Monate alt.
 
 ### Token-Limits (WICHTIG)
 
@@ -75,7 +89,9 @@ In `config/competitors.md` gibt es eine Kategorie "Branchenkontext" (KSB, Grundf
 ### Nicht berichten
                                                                                                                                                                   
 - Hersteller für Präzisions-/Mikrodosierung, Spritzlackierung oder Labortechnik (z.B. Graco, Nordson, Viscotec, Bürkle, Finish Thompson) sind NICHT relevant. Auch
-- Beinlich Pumps (Zahnradpumpen/Hydraulik) hat keinen Bezug zum FLUX-Wettbewerbsumfeld. Diese Firmen in Suchergebnissen überspringen. 
+- Beinlich Pumps (Zahnradpumpen/Hydraulik) hat keinen Bezug zum FLUX-Wettbewerbsumfeld. Diese Firmen in Suchergebnissen überspringen.
+
+**Negativ-Liste-Pflichtcheck:** Bevor du einen Wettbewerber-Eintrag in den Report schreibst, gleiche den Namen explizit gegen die Liste in `config/competitors.md` Abschnitt "Nicht beobachten" ab. Wenn der Name dort steht, **lasse den Eintrag weg**, auch wenn das Thema interessant erscheint. Die Liste überschreibt deine Recherche-Erkenntnisse.
 
 ### Sprachen
 
@@ -96,6 +112,15 @@ Priorisiere Nachrichten aus: Chemie, Pharma, Lebensmittel & Getränke. Andere Br
 
 ## Highlights
 - Wichtigste 2-3 Neuigkeiten des Tages – IMMER mit Quellen-Link [Quelle](url)
+
+## Eigene Aktivitäten (FLUX)
+- Items aus `incoming/flux-news.json` und `incoming/flux-messen.json` (FLUX-Eigenpublikation)
+- Format: `- **Titel:** Beschreibung [Quelle](url) [YYYY-MM-DD]`
+
+## FLUX in Drittquellen
+- Items aus `incoming/google-news-flux-de.json` plus aktive Web-Suche (Pflicht-Slot Mo)
+- Format: `- **Quelle: Wie wird FLUX erwähnt?** [Quelle](url) [DE|EN|FR] [YYYY-MM-DD]`
+- Wenn nichts: `- Keine externen Erwähnungen heute.`
 
 ## Wettbewerber
 - **Name:** Entwicklung [Quelle](url)

@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-04-30T12:58:14.095802Z",
+  "items": [
+    {
+      "id": "e893c4743dff61c6",
+      "title": "BASF-Chef: Ludwigshafen zentral für Zukunft des Chemieriesen",
+      "link": "https://www.process.vogel.de/chemiewerk-leuna-mit-hunderten-jobs-gerettet-nicht-fuer-alle-geht-es-weiter-a-475bfa2e7e93f83a6854ebc5a0fabe1f/",
+      "published": "2026-04-30",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "03c5e36eaaf81e50",
+      "title": "Mehr als eine Pumpe: Feststoffkonditionierung macht Abfälle pumpfähig",
+      "link": "https://www.process.vogel.de/seepex-flowshred-lebensmittelabfaelle-pumpfaehig-a-0059c122e3a70f470fe479dfbe5d9870/",
+      "published": "2026-04-23",
+      "summary": "Exzenterschneckenpumpenspezialist Seepex erweitert sein Portfolio mit Flowshred, einem Feststoffkonditionierungssystem mit Doppelwellenzerkleinerer, das heterogene, organische Abfälle aus der Lebensmittelproduktion effizient zerkleinert und damit pumpfähig macht."
+    }
+  ]
+}

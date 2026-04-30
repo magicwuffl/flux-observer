@@ -1,7 +1,8 @@
 # News-Quellen fuer den Observer-Scraper.
 # Pro Quelle:
 #   name      – Anzeigename
-#   category  – self | direct | technology | context  (siehe competitors.md)
+#   category  – self | direct | technology | context | aggregator | media  (siehe competitors.md)
+#               aggregator = News-Suche (Google News etc.), media = Fachmedium-RSS
 #   url       – Hauptseite oder News-Listing-URL (Fallback fuer Auto-Discovery + HTML-Scrape)
 #   rss       – optional: bekannter RSS/Atom-Feed. Wenn gesetzt, wird Auto-Discovery uebersprungen.
 #   html      – optional: { container, item, title, link, date } CSS-Selektoren fuer HTML-Fallback,
@@ -160,3 +161,172 @@
   category: technology
   url: https://www.lewa.com/
   keywords: []
+
+# === AGGREGATOR (FLUX-Drittquellen-Sichtbarkeit & Themen-Recherche) ===
+
+- name: Google News (FLUX DE)
+  slug: google-news-flux-de
+  category: aggregator
+  url: https://news.google.com/rss/search?q=%22FLUX-Ger%C3%A4te%22+OR+VISCOPOWER+OR+FLUXTRONIC&hl=de&gl=DE&ceid=DE:de
+  rss: https://news.google.com/rss/search?q=%22FLUX-Ger%C3%A4te%22+OR+VISCOPOWER+OR+FLUXTRONIC&hl=de&gl=DE&ceid=DE:de
+  keywords: []
+  max_items: 15
+
+- name: Google News (FLUX EN)
+  slug: google-news-flux-en
+  category: aggregator
+  url: https://news.google.com/rss/search?q=%22FLUX-Ger%C3%A4te%22+OR+VISCOPOWER+OR+FLUXTRONIC+OR+JUNIORFLUX+OR+COMBIFLUX&hl=en-US&gl=US&ceid=US:en
+  # 0 Treffer im Test 2026-04-30 – Markennamen tauchen EN selten in News auf.
+  # Dennoch eingeschaltet lassen, falls sich die Lage aendert.
+  enabled: false
+  keywords: []
+  max_items: 10
+
+- name: Google News (FLUX FR)
+  slug: google-news-flux-fr
+  category: aggregator
+  url: https://news.google.com/rss/search?q=%22FLUX-Ger%C3%A4te%22+OR+VISCOPOWER+OR+FLUXTRONIC&hl=fr&gl=FR&ceid=FR:fr
+  enabled: false
+  keywords: []
+  max_items: 10
+
+- name: presseportal.de (Pumpen-Suche)
+  slug: presseportal-pumpen
+  category: aggregator
+  url: https://www.presseportal.de/rss/suche.rss2?searchKeyword=Pumpen
+  rss: https://www.presseportal.de/rss/suche.rss2?searchKeyword=Pumpen
+  # Test 2026-04-30: Such-RSS ignoriert searchKeyword scheinbar – egal welche
+  # Query, immer 15 generische "neueste Pressemitteilungen" ohne Pumpenbezug.
+  # Bis ein passender Themen-Endpoint gefunden ist: deaktiviert.
+  enabled: false
+  keywords:
+    - pumpe
+    - pump
+    - fass
+    - ibc
+    - viskos
+    - abfuell
+  max_items: 15
+
+# === MEDIA (Fachmedien Pumpen/Verfahrens-/Lebensmitteltechnik) ===
+
+- name: PROCESS (Vogel)
+  slug: process-de
+  category: media
+  url: https://www.process.vogel.de/rss/news.xml
+  rss: https://www.process.vogel.de/rss/news.xml
+  keywords:
+    - pumpe
+    - pump
+    - fass
+    - ibc
+    - abfuell
+    - viskos
+    - foerder
+  max_items: 20
+
+- name: impeller.net (Online-Pumpenmagazin)
+  slug: impeller-net
+  category: media
+  url: https://impeller.net/feed/
+  rss: https://impeller.net/feed/
+  keywords: []
+  max_items: 15
+
+- name: B&I Industrie-Zeitung (Betriebstechnik)
+  slug: bi-industrie
+  category: media
+  url: https://www.b-und-i.de/feed/
+  rss: https://www.b-und-i.de/feed/
+  keywords:
+    - pumpe
+    - pump
+    - fass
+    - ibc
+    - abfuell
+  max_items: 15
+
+- name: PROCESS Worldwide (Wiley)
+  slug: process-technology
+  category: media
+  url: https://www.process-worldwide.com/rss/news.xml
+  rss: https://www.process-worldwide.com/rss/news.xml
+  keywords:
+    - pump
+    - drum
+    - ibc
+    - filling
+    - viscosity
+  max_items: 15
+
+- name: Getränke News (Kuhn Fachverlag)
+  slug: getraenke-news
+  category: media
+  url: https://getraenke-news.de/feed/
+  rss: https://getraenke-news.de/feed/
+  keywords:
+    - pumpe
+    - abfuell
+    - hygien
+    - cip
+    - dosier
+  max_items: 15
+
+- name: Konradin Verlag (KEM, dei, fluid u.a.)
+  slug: konradin
+  category: media
+  url: https://www.konradin.de/de/feed/
+  rss: https://www.konradin.de/de/feed/
+  # Test 2026-04-30: Feed enthaelt nur eigene Verlags-PR (Awards, Events,
+  # Spendenaktionen, alte Beitraege bis 2019) – keine inhaltlichen Fachartikel.
+  # KEM/dei/fluid haben keine eigenen RSS – Agent-Suche bleibt einziger Weg.
+  enabled: false
+  keywords:
+    - pumpe
+    - pump
+    - fass
+    - ibc
+    - foerder
+    - abfuell
+  max_items: 20
+
+# === MEDIA (kein RSS verfuegbar – via HTML+link_pattern oder Agent-Suche) ===
+
+- name: Chemie Technik
+  slug: chemietechnik-de
+  category: media
+  url: https://www.chemietechnik.de
+  # Kein RSS-Tag im HTML-Head; Auto-Discovery scheitert. Vorerst Agent-only.
+  enabled: false
+  keywords:
+    - pumpe
+    - pump
+  max_items: 15
+
+- name: fluid.de
+  slug: fluid-de
+  category: media
+  url: https://www.fluid.de
+  # Kein RSS – via Konradin-Feed (s.o.) groesstenteils abgedeckt.
+  enabled: false
+  keywords:
+    - pumpe
+    - pump
+  max_items: 15
+
+- name: Pumps & Systems (USA)
+  slug: pumpsandsystems-com
+  category: media
+  url: https://www.pumpsandsystems.com
+  # Kein RSS-Tag; HTML-Heuristik ohne link_pattern fragil. Spaeter mit Selektoren konfigurieren.
+  enabled: false
+  keywords: []
+  max_items: 10
+
+# === MANUELLE QUELLEN (kein Scraper-Zugriff – nur als Doku-Hinweis) ===
+# - PUK 2026 (DE/EN) — Jahrbuch Print, jaehrlich manuell sichten
+# - B&I Newsletter — E-Mail Newsletter, ggf. spaeter via IMAP-Bridge
+# - KEM Konstruktion — kein eigener RSS, aber via Konradin-Verlags-Feed teilweise abgedeckt
+# - Oberflaeche Online, fokus GEFAHR/GUT, IBC Magazin, IndustryDEX —
+#   Domains nicht aufloesbar im Test 2026-04-30, vermutlich falsche/veraltete Adressen.
+#   Bei Klaerung als reine Agent-Suchhilfe in sources.md aufnehmen.

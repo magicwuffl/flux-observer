@@ -1,0 +1,22 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-04-30T12:58:17.978169Z",
+  "items": [
+    {
+      "id": "c8f0e3bc3719b20d",
+      "title": "Condition Monitoring vereinfacht",
+      "link": "https://www.b-und-i.de/condition-monitoring-vereinfacht/",
+      "published": "2026-04-28",
+      "summary": "Schwingungsbasiertes Condition Monitoring ermöglicht es, Schäden an Pumpen, Lüftern und Motoren frühzeitig zu erkennen. Neue Softwarefunktionen senken dabei die Einstiegshürden deutlich: Überwachung, Analyse und Handlungsempfehlungen lassen sich ohne Spezialwissen umsetzen – und direkt in die Instandhaltung integrieren."
+    },
+    {
+      "id": "277ff12802832e35",
+      "title": "Kollege „SIEDS“ hat alles im Blick",
+      "link": "https://www.b-und-i.de/kollege-sieds-hat-alles-im-blick/",
+      "published": "2026-04-28",
+      "summary": "Der Multifunktionssensor SIEDS von Indu-Sol ist auf die kontinuierliche Erfassung von Umgebungs- und Zustandsdaten ausgelegt."
+    }
+  ]
+}

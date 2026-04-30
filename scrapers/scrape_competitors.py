@@ -284,11 +284,11 @@ def normalize_date(raw: str) -> str | None:
         return None
 
 
-def keyword_pass(title: str, keywords: list[str]) -> bool:
+def keyword_pass(title: str, summary: str, keywords: list[str]) -> bool:
     if not keywords:
         return True
-    t = title.lower()
-    return any(k.lower() in t for k in keywords)
+    haystack = (title + " " + (summary or "")).lower()
+    return any(k.lower() in haystack for k in keywords)
 
 
 def scrape_source(src: dict, only_slug: str | None, quiet: bool) -> tuple[str, list[dict]]:
@@ -333,7 +333,7 @@ def scrape_source(src: dict, only_slug: str | None, quiet: bool) -> tuple[str, l
     # Filter + Normalisierung
     enriched = []
     for it in items:
-        if not keyword_pass(it["title"], keywords):
+        if not keyword_pass(it["title"], it.get("summary", ""), keywords):
             continue
         published = normalize_date(it.get("published_raw") or "")
         item_id = hash_id(slug, it["link"], it["title"])
