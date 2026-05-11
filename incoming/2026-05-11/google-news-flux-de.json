@@ -1,0 +1,22 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-05-11T09:00:41.863322Z",
+  "items": [
+    {
+      "id": "431146ae2a6b5b26",
+      "title": "Flux Geräte erweitert deutschen Standort - lebensmittelverarbeitung-online.de",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckd0am1NRGtUbHNKWW4ycmplZUxUV2RReElfTUZOZGtnUHpHWHBHSFZsdDd2d0dzbWZaOGFhUTd0M3Y4UXdEUmFtTnpkb3Y0dHhJdU1zNzNZQml6eENnSnd1Uzl5dWZDbGFXQXVoTXBCNHg3ZFJYRHdSWE1ibDQxOW42N1hCZWx1RFFFVzdHV19ZUnp2X0NpSzZCeVB2aUhmVGZR?oc=5",
+      "published": "2017-09-04",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPckd0am1NRGtUbHNKWW4ycmplZUxUV2RReElfTUZOZGtnUHpHWHBHSFZsdDd2d0dzbWZaOGFhUTd0M3Y4UXdEUmFtTnpkb3Y0dHhJdU1zNzNZQml6eENnSnd1Uzl5dWZDbGFXQXVoTXBCNHg3ZFJYRHdSWE1ibDQxOW42N1hCZWx1RFFFVzdHV19ZUnp2X0NpSzZCeVB2aUhmVGZR?oc=5\" target=\"_blank\">Flux Geräte erweitert deutschen Standort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lebensmittelverarbeitung-online.de</font>"
+    },
+    {
+      "id": "d715eba537a576c4",
+      "title": "60 Jahre elektrische Fasspumpe. Eine Erfolgsgeschichte aus dem Schwabenland - Prozesstechnik-online",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObG90VTJLc2xVcnVEVVB5bTRTOW1SUVZfQy1fS29ZUzZSY3d0N1puSnF6M2FNLVRxRXNrbEpqOHl4X3pmU3J6MjJtTndIV2RfM2JMVVdsUG5fWnQtdmdXczdBNTcwQ09sSGRfeGVMbFNKSXVLQ1o3U05fNk5NekgyNEF3?oc=5",
+      "published": "2010-06-16",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObG90VTJLc2xVcnVEVVB5bTRTOW1SUVZfQy1fS29ZUzZSY3d0N1puSnF6M2FNLVRxRXNrbEpqOHl4X3pmU3J6MjJtTndIV2RfM2JMVVdsUG5fWnQtdmdXczdBNTcwQ09sSGRfeGVMbFNKSXVLQ1o3U05fNk5NekgyNEF3?oc=5\" target=\"_blank\">60 Jahre elektrische Fasspumpe. Eine Erfolgsgeschichte aus dem Schwabenland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prozesstechnik-online</font>"
+    }
+  ]
+}
