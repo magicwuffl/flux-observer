@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-05-13T08:36:24.313007Z",
+  "items": [
+    {
+      "id": "e21fad3943830faa",
+      "title": "Investoren für Dyneon in Gendorf und Domo in Premnitz gefunden",
+      "link": "https://www.process.vogel.de/total-haelt-spritpreis-deckel-in-frankreich-weiter-aufrecht-a-fbdf436b4f424139def9cf9f85e9d802/",
+      "published": "2026-05-13",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "b4f097a9bdbb020b",
+      "title": "Neue Köpfe und Spitzen in der Prozessindustrie",
+      "link": "https://www.process.vogel.de/neue-koepfe-und-spitzen-in-der-prozessindustrie-a-e70cc18b9fb6457fa0e68e99312fcb5d/",
+      "published": "2026-05-11",
+      "summary": "Südpack, Merck, DWK Life Sciences, Harro Höfliger und weitere Unternehmen aus der Prozessindustrie melden Veränderungen an ihrer Spitze. VDMA-Geschäftsführer Richard Clemens verabschiedet sich in den Ruhestand. PROCESS fasst die aktuellen Personalmeldungen zusammen."
+    }
+  ]
+}
