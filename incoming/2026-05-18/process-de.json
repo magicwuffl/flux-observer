@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-05-18T09:43:27.222115Z",
+  "items": [
+    {
+      "id": "954cb232ed8b4d18",
+      "title": "Achema-Kongress: Jetzt Ideen für die Industrie von morgen diskutieren",
+      "link": "https://www.process.vogel.de/chancen-fuer-start-ups-a-c4dd08a5fde812e653b8d10c4c8acc16/",
+      "published": "2026-05-18",
+      "summary": "Der Achema-Kongress umfasst die gesamte Bandbreite der Achema von der Verfahrenstechnik über Biotechnologie und Life Sciences bis zur Digitalisierung und dem Einsatz von KI. Der Call for Papers für den Achema-Kongress 2027 hat gestartet."
+    },
+    {
+      "id": "bad04bab8e55ac0d",
+      "title": "Todesfall nach schwerem Chemieunfall in Nürnberger Firma",
+      "link": "https://www.process.vogel.de/total-haelt-spritpreis-deckel-in-frankreich-weiter-aufrecht-a-fbdf436b4f424139def9cf9f85e9d802/",
+      "published": "2026-05-18",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}
