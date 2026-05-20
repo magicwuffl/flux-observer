@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-05-20T08:56:41.849575Z",
+  "items": [
+    {
+      "id": "8a587308c26ec74e",
+      "title": "Nach Chemikalienunfall: Polizei beginnt mit Spurensicherung",
+      "link": "https://www.process.vogel.de/total-haelt-spritpreis-deckel-in-frankreich-weiter-aufrecht-a-fbdf436b4f424139def9cf9f85e9d802/",
+      "published": "2026-05-20",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "aed36b1198b142f9",
+      "title": "Lödige präsentiert ersten Pflugschar-Mischer für OEB-Level 5",
+      "link": "https://www.process.vogel.de/fkm-containment-loedige-mischer-oeb-5-a-f9e63358a6a681326fca71106b6ad6e5/",
+      "published": "2026-05-19",
+      "summary": "Der neue FKM Containment von Lödige kombiniert bewährte Mischtechnologie mit umfassendem Containment-Schutz bis OEB-Level 5. Doppelklappen-Systeme, flexible Isolatoren und ein zweistufiges Filtersystem gewährleisten höchste Sicherheit bei gleichbleibend präzisen Mischergebnissen."
+    }
+  ]
+}

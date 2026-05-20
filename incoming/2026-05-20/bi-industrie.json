@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-05-20T08:56:45.508484Z",
+  "items": [
+    {
+      "id": "1ad2730679d386e8",
+      "title": "EWE vergibt Großauftrag an Bilfinger",
+      "link": "https://www.b-und-i.de/ewe-vergibt-grossauftrag-an-bilfinger/",
+      "published": "2026-05-19",
+      "summary": "EWE hat den Industriedienstleister mit zentralen Arbeiten für die geplante Wasserstoff-Erzeugungsanlage in Emden beauftragt. Das Vergabepaket umfasst Stahlbau, Rohrleitungs- und Komponentenmontage. Die 320-MW-Anlage gilt als eines der größten Wasserstoffprojekte Europas und soll Ende 2027 grünen Wasserstoff liefern."
+    }
+  ]
+}
