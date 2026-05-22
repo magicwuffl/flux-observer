@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-05-22T08:51:20.264650Z",
+  "items": [
+    {
+      "id": "828dba24e2249c11",
+      "title": "Pumpen digital vernetzt",
+      "link": "https://www.b-und-i.de/pumpen-digital-vernetzt/",
+      "published": "2026-05-21",
+      "summary": "Tsurumi präsentierte auf der IFAT 2026 neue Lösungen für die Wasser- und Abwassertechnik. Im Fokus standen die Abwasserpumpen der CZ-Serie sowie das offene Vernetzungssystem „Tsurumi Connect“."
+    }
+  ]
+}
