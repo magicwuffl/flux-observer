@@ -1,0 +1,22 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-05-27T09:31:42.880249Z",
+  "items": [
+    {
+      "id": "de2eeb73d8e6f707",
+      "title": "Clevere Variante der Wärmepumpe",
+      "link": "https://www.b-und-i.de/clevere-variante-der-waermepumpe/",
+      "published": "2026-05-26",
+      "summary": "Der Schlüssel zur Erschließung von Energieeinsparungen in HLK-Systemen liegt darin, es als Wärmemanagementsystem und nicht als isolierte Heiz- und Kühlanlagen zu betrachten. Die Wärmepumpentechnologie ermöglicht diesen Ansatz ..."
+    },
+    {
+      "id": "fa66d77db4e27d65",
+      "title": "Für anspruchsvolle Medien ausgelegt",
+      "link": "https://www.b-und-i.de/fuer-anspruchsvolle-medien-ausgelegt/",
+      "published": "2026-05-26",
+      "summary": "Lewa hat die Leistung seiner Prozesspumpe Lewa Ecoflow LDH Boxer um 20 Prozent gesteigert. Betreiber sollen damit höhere Fördermengen beziehungsweise Drücke erreichen können, ohne zusätzlichen Platzbedarf oder höhere Investitionskosten. Die überarbeitete Pumpe richtet sich an Anwendungen in der Energie-, Chemie- und Prozessindustrie."
+    }
+  ]
+}
