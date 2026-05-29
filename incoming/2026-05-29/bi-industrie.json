@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-05-29T09:38:34.538946Z",
+  "items": [
+    {
+      "id": "089c099ec3fdf9fb",
+      "title": "Eine Milliarde ist erst der Anfang",
+      "link": "https://www.b-und-i.de/eine-milliarde-ist-erst-der-anfang/",
+      "published": "2026-05-28",
+      "summary": "Navvis hat innerhalb eines Jahres mehr als eine Milliarde Quadratmeter digital erfasst. Mit mobilen Mapping-Systemen und cloudbasierter Software erstellt das Unternehmen digitale Zwillinge von Gebäuden, Industrieanlagen und Infrastrukturprojekten. Die Lösungen kommen unter anderem in Industrie, Bauwesen und Vermessung zum Einsatz."
+    }
+  ]
+}

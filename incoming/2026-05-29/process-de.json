@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-05-29T09:38:32.273890Z",
+  "items": [
+    {
+      "id": "068cf9770a44e8a1",
+      "title": "Takeda investiert vier Millionen Euro in Photovoltaik-Anlage",
+      "link": "https://www.process.vogel.de/takeda-investiert-4-millionen-euro-in-photovoltaik-anlage-a-cfc24a15538fcf0afb4438f66e082c34/",
+      "published": "2026-05-27",
+      "summary": "Die neu in Betrieb genommene Photovoltaik-Anlage umfasst etwa 3.500 Solarmodule auf einer Fläche von 6.000 Quadratmetern. Die Anlage erzeugt jährlich etwa 1.500 Megawattstunden Strom und soll rund 650 Tonnen CO&lt;sub%gt;2&lt;/sub%gt; einsparen."
+    },
+    {
+      "id": "5e7bd6819a7559d7",
+      "title": "BP setzt Verwaltungsratschef ab und verkauft Raffinerie Gelsenkirchen +++ Neun Vermisste nach tödlichem Chemie-Unfall",
+      "link": "https://www.process.vogel.de/total-haelt-spritpreis-deckel-in-frankreich-weiter-aufrecht-a-fbdf436b4f424139def9cf9f85e9d802/",
+      "published": "2026-05-27",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}
