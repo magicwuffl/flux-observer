@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-06-03T10:45:42.892915Z",
+  "items": [
+    {
+      "id": "3cd8c9567d30b4d6",
+      "title": "Sieben neue Pumpen im Überblick - konstruktionspraxis",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekQzWGZxQUJzMXItTldpVzRHLUJYWUxsY2pkeHV3OHVoWXB4djA3WWp1UGpmSS1UWUUtQ2dXTnlVazg1elIxX0VYM1ZPWmQtTkVnMkk5RmRjNzR3NkdRSXQtekVrSndheFl4SzBxM0ZFc1Y1VmJyTk41b3hHMXJvM05DY3FtaTBOamtNYQ?oc=5",
+      "published": "2022-05-19",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNekQzWGZxQUJzMXItTldpVzRHLUJYWUxsY2pkeHV3OHVoWXB4djA3WWp1UGpmSS1UWUUtQ2dXTnlVazg1elIxX0VYM1ZPWmQtTkVnMkk5RmRjNzR3NkdRSXQtekVrSndheFl4SzBxM0ZFc1Y1VmJyTk41b3hHMXJvM05DY3FtaTBOamtNYQ?oc=5\" target=\"_blank\">Sieben neue Pumpen im Überblick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">konstruktionspraxis</font>"
+    }
+  ]
+}
