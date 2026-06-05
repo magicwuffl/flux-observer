@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-06-05T09:33:55.658802Z",
+  "items": [
+    {
+      "id": "dd90629aa345e045",
+      "title": "Abfüllsystem für Flüssigkeiten - Prozesstechnik-online",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkZ2NlJiQVpSbVEzUEl2dXVfS0dJMGdIZDhNZUczbkRSYURXblMxX3Q0aklCaVRPNU8xdWdVUjNYbENnc2VRQzVuVFNkTEUwbDlkYko2OXR0bktXMVNqSXo2aFM4a2lHWXBvMmlIT2ZRdE1TRjZSVWdjcFJwTlE0a1I1am5Vdw?oc=5",
+      "published": "2019-09-17",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkZ2NlJiQVpSbVEzUEl2dXVfS0dJMGdIZDhNZUczbkRSYURXblMxX3Q0aklCaVRPNU8xdWdVUjNYbENnc2VRQzVuVFNkTEUwbDlkYko2OXR0bktXMVNqSXo2aFM4a2lHWXBvMmlIT2ZRdE1TRjZSVWdjcFJwTlE0a1I1am5Vdw?oc=5\" target=\"_blank\">Abfüllsystem für Flüssigkeiten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prozesstechnik-online</font>"
+    }
+  ]
+}
