@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-06-22T11:37:30.911301Z",
+  "items": [
+    {
+      "id": "9766091b190a03da",
+      "title": "Dormagen: 25 Mitarbeiter bei Austritt von Chemikalie verletzt",
+      "link": "https://www.process.vogel.de/basf-darf-lacke-sparte-an-carlyle-verkaufen-ks-kauft-salzgeschaeft-von-qemetica-a-4f68a282eac314289c9b25bbe9fc91ff/",
+      "published": "2026-06-22",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "337c457151e35f0d",
+      "title": "Mehr Sicherheit ohne Sperrflüssigkeit: Diese Doppelmembranpumpe bleibt trocken",
+      "link": "https://www.process.vogel.de/mehr-sicherheit-ohne-sperrfluessigkeit-diese-doppelmembranpumpe-bleibt-trocken-a-c49d0849137cbd6262ce1c6b90d85dfe/",
+      "published": "2026-06-22",
+      "summary": "Doppelmembranpumpen sind aus der Industrie nicht wegzudenken - doch damit sensible Medien und Prozesse auf der sicheren Seite bleiben, muss die Sperrflüssigkeit an jede Anwendung angepasst werden. Das ist aufwändig und eine potenzielle Fehlerquelle - aber ginge es auch einfacher?"
+    }
+  ]
+}
