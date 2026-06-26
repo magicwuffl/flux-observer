@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-06-26T08:52:13.996673Z",
+  "items": [
+    {
+      "id": "8c5111e3bc43f209",
+      "title": "Shiftconnector wird Seqonis",
+      "link": "https://www.b-und-i.de/shiftconnector-wird-seqonis/",
+      "published": "2026-06-24",
+      "summary": "Eschbach benennt seine Operations-Plattform Shiftconnector in Seqonis um. Das Rebranding symbolisiert die Entwicklung zu einer umfassenden Lösung für intelligente Betriebsabläufe in der Prozessindustrie."
+    }
+  ]
+}
