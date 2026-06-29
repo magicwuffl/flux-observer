@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-06-29T10:25:04.292013Z",
+  "items": [
+    {
+      "id": "0f3296b6d5354475",
+      "title": "Sonderlösung für vier Materialströme",
+      "link": "https://www.b-und-i.de/sonderlosung-vier-materialstroeme-container/",
+      "published": "2026-06-28",
+      "summary": "Ellermann Containersysteme entwickelt Spezial-Abrollcontainer mit vier Kammern für sortenreine Erfassung von Produktionsrückständen. Effiziente Lösung für Metallverarbeitung."
+    }
+  ]
+}
