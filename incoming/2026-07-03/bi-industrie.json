@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-07-03T08:51:13.312411Z",
+  "items": [
+    {
+      "id": "8d927e70b6f6723b",
+      "title": "Eine präzise Überwachung ganz ohne Kontakt",
+      "link": "https://www.b-und-i.de/wirbelstromsensorik-zustandsueberwachung-maschinen/",
+      "published": "2026-07-02",
+      "summary": "Avibia nutzt digitale Wirbelstromtechnik für berührungslose Zustandsüberwachung rotierender Wellen. Das modulare SPS-System erkennt Unwuchten und Verschleiß präzise in Turbinen, Pumpen und Motoren."
+    }
+  ]
+}
