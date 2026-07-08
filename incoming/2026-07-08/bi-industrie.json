@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-07-08T08:10:40.191525Z",
+  "items": [
+    {
+      "id": "61d8b22e5b17aa9d",
+      "title": "Die Druckluft stets im Blick behalten",
+      "link": "https://www.b-und-i.de/druckluft-monitoring-effizienz-messtechnik/",
+      "published": "2026-07-07",
+      "summary": "Kaeser-Messtechnik macht Druckluftanlagen transparent: Energiedaten, Druckverhältnisse und Leckagen kontinuierlich erfassen — für weniger Stillstände und mehr Effizienz."
+    }
+  ]
+}
