@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-07-10T09:22:24.811477Z",
+  "items": [
+    {
+      "id": "94e4d772995e81d4",
+      "title": "FLUX-GERÄTE GMBH (Maulbronn) im Ranking der deutschen Top-Unternehmen - Die Deutsche Wirtschaft",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGlCczJQc3ZxNVpfMm15dkRoSnB3SmNhdGxvdlF6M2N5TjY4amlHOGZvVVUxQXBIa19GaHJHSFhoWmVRbU9XaFI1Tm9rM2hGOHNjT21tdkxacEtKTTFyR0IxdmhsVmRjajVGbWEyVlVMYjFJMkIyZXZINlEycGNNSA?oc=5",
+      "published": "2026-04-29",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGlCczJQc3ZxNVpfMm15dkRoSnB3SmNhdGxvdlF6M2N5TjY4amlHOGZvVVUxQXBIa19GaHJHSFhoWmVRbU9XaFI1Tm9rM2hGOHNjT21tdkxacEtKTTFyR0IxdmhsVmRjajVGbWEyVlVMYjFJMkIyZXZINlEycGNNSA?oc=5\" target=\"_blank\">FLUX-GERÄTE GMBH (Maulbronn) im Ranking der deutschen Top-Unternehmen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Die Deutsche Wirtschaft</font>"
+    }
+  ]
+}

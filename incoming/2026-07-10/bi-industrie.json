@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-07-10T09:22:28.551013Z",
+  "items": [
+    {
+      "id": "3d0ad62690a8b907",
+      "title": "Fender-Monitoring im Hafen Dover: Sensoren schonen Liegeplätze",
+      "link": "https://www.b-und-i.de/fender-monitoring-hafen-dover/",
+      "published": "2026-07-08",
+      "summary": "Im Hafen Dover erfasst ein neues Fender-Monitoringsystem Belastungsdaten beim Anlegen — für bedarfsgerechte Wartung und weniger ungeplante Ausfälle."
+    }
+  ]
+}
