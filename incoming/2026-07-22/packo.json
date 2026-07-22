@@ -1,0 +1,22 @@
+{
+  "source": "packo",
+  "name": "Packo Pumps",
+  "category": "direct",
+  "scraped_at": "2026-07-22T08:10:15.683755Z",
+  "items": [
+    {
+      "id": "b05b869d7a99cc49",
+      "title": "2",
+      "link": "https://www.packopumps.com/int/en/news/2/?gad_campaignid=23085328215&gad_source=2&gclid=CjwKCAjwsfzSBhB5EiwAOGyqSe9yxqTOVqALEcvFXM29oeOiOxpqdCqIyIYqho8SaGRyJTVUfrHoWxoCK34QAvD_BwE&cHash=4aef69447ae50747ef915f70c7ec4ebd",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "id": "8877bebeb588b162",
+      "title": "3",
+      "link": "https://www.packopumps.com/int/en/news/3/?gad_campaignid=23085328215&gad_source=2&gclid=CjwKCAjwsfzSBhB5EiwAOGyqSe9yxqTOVqALEcvFXM29oeOiOxpqdCqIyIYqho8SaGRyJTVUfrHoWxoCK34QAvD_BwE&cHash=4aef69447ae50747ef915f70c7ec4ebd",
+      "published": null,
+      "summary": ""
+    }
+  ]
+}
