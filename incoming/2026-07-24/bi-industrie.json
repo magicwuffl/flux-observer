@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-07-24T08:10:28.427274Z",
+  "items": [
+    {
+      "id": "78028fc588d8bccd",
+      "title": "Tsurumi Tauchmotorpumpen sichern Berliner Tiefbauprojekt",
+      "link": "https://www.b-und-i.de/tauchmotorpumpen-berliner-tiefbauprojekt/",
+      "published": "2026-07-22",
+      "summary": "Tauchmotorpumpen von Tsurumi entwässern ein 30 Meter tiefes Regenüberlaufbecken in Berlin — seit 18 Monaten nahezu wartungsfrei im Einsatz auf der Großbaustelle."
+    }
+  ]
+}
