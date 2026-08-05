@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-08-05T08:20:00.295505Z",
+  "items": [
+    {
+      "id": "b49c9dfc35cca8ab",
+      "title": "Digitaler Produktpass: So wird die bürokratische Hürde zum Wettbewerbsvorteil für KMUs",
+      "link": "https://www.process.vogel.de/digitaler-produktpass-so-wird-die-buerokratische-huerde-zum-wettbewerbsvorteil-fuer-kmus-a-de1e80101c929f53eab33ec1966e1452/",
+      "published": "2026-08-04",
+      "summary": "Was wäre, wenn jedes Ventil, jede Pumpe und jeder Sensor über ihren gesamten Lebenszyklus hinweg eine digitale Identität besäße? Was eher nach Industrie 4.0-Fantasie klingt, wird durch die EU-Ökodesign-Verordnung (ESPR) zur gesetzlichen Pflicht. Ein Praxis-Workshop beim Hersteller von Ventil-, Mess- und Regeltechnik Gemü zeigt, dass der digitale Produktpass (DPP) weit mehr ist als nur ein virtuelles Typenschild."
+    },
+    {
+      "id": "97e163e1be2660ae",
+      "title": "Heißdampf statt Heißluft: Fraunhofer IGB senkt Energiebedarf industrieller Trocknung um bis zu 80 Prozent",
+      "link": "https://www.process.vogel.de/lowcarbdry-dampftrocknung-ueberhitzter-wasserdampf-waermepumpe-a-dcd91191d8efc0b2a5148c247f261e12/",
+      "published": "2026-08-04",
+      "summary": "Im Projekt „LowCarbDry“ ersetzen Forschende des Fraunhofer IGB die klassische Heißlufttrocknung durch überhitzten Wasserdampf und koppeln den Prozess mit einer Wärmepumpe. Gemeinsam mit Evonik und der Pergande Group zeigen sie, wie sich der Energieverbrauch industrieller Trocknungsprozesse drastisch senken lässt."
+    }
+  ]
+}
