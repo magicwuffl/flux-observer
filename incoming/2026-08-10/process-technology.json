@@ -1,0 +1,15 @@
+{
+  "source": "process-technology",
+  "name": "PROCESS Worldwide (Wiley)",
+  "category": "media",
+  "scraped_at": "2026-08-10T07:14:11.793488Z",
+  "items": [
+    {
+      "id": "4ad3385a5d599950",
+      "title": "Enhancing Die Filling Performance with Poorly Flowable Powders",
+      "link": "https://www.process-worldwide.com/enhancing-die-filling-performance-with-poorly-flowable-powders-a-f7c090ee026fbb8f83938ff57701fe5f/",
+      "published": "2026-08-07",
+      "summary": "Poorly flowable powders remain one of the biggest challenges in tablet manufacturing. They can lead to inconsistent die filling, tablet weight variation, and reduced product quality – especially at high production speeds. Optimized feeder geometry, paddle configuration, and HMI-controlled die loading can significantly improve process robustness without changing the formulation."
+    }
+  ]
+}
