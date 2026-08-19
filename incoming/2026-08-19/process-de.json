@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-08-19T06:28:16.822631Z",
+  "items": [
+    {
+      "id": "7a31e16eca94e799",
+      "title": "Spaltfreie Zahnradpumpe fördert Hart-PVC ohne angestaute Polymere",
+      "link": "https://www.process.vogel.de/spaltfreie-zahnradpumpe-foerdert-hart-pvc-ohne-angestaute-polymere-a-88baa68afa33cf1d195bec3e7e988974/",
+      "published": "2026-08-17",
+      "summary": "Die strömungsoptimierte Konstruktion der Zahnradpumpe verhindert Polymerablagerungen und deren thermische Zersetzung beim Handling von Hart-PVC. Durch die druckstabile Förderung sinkt der Energiebedarf des Gesamtsystems um bis zu 20 Prozent bei gleichzeitiger Entlastung des Extruders."
+    },
+    {
+      "id": "f7f44b40c455b330",
+      "title": "Neue Forschungsanlage zur Kreislaufwirtschaft im Chemiepark",
+      "link": "https://www.process.vogel.de/draeger-warnt-die-chemieindustrie-stirbt-leise-a-fb655f41c5a6f0cfc12e14c4f0bd3376/",
+      "published": "2026-08-17",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}
