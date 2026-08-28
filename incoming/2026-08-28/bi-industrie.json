@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-08-28T17:56:11.588234Z",
+  "items": [
+    {
+      "id": "985a195fc7da5d64",
+      "title": "Rund 4.500 Anlagen im Werk digital erfasst",
+      "link": "https://www.b-und-i.de/leadec-audi-anlagen-digital-erfasst/",
+      "published": "2026-08-26",
+      "summary": "Leadec übernimmt Facility Management bei Audi Sport in Heilbronn. Rund 4.500 technische Anlagen wurden digital erfasst und dokumentiert."
+    }
+  ]
+}
