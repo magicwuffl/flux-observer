@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-09-02T10:15:09.526477Z",
+  "items": [
+    {
+      "id": "2f841f0554c949cf",
+      "title": "Flux-Messe-1956 - packaging journal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVhBMFotNFUtQkFrdzdjTUpfemNkeWVpazBLekVUcFVMNF9nMDlaYjRKRUVZUjRscUxnUlJ3YkhnVHJ5Tk0zRlA4SE9aU1RvR2Q0cng4MXJOT3lVY041dkZZM2FsOE9NbC0xRGxkV1NtM2daVUZxTTNUdU54WTJTSG00MGE3aV9PZ3RxLS00T0lnaGtCaUo5VkhRVnNqSjND?oc=5",
+      "published": "2020-09-07",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVhBMFotNFUtQkFrdzdjTUpfemNkeWVpazBLekVUcFVMNF9nMDlaYjRKRUVZUjRscUxnUlJ3YkhnVHJ5Tk0zRlA4SE9aU1RvR2Q0cng4MXJOT3lVY041dkZZM2FsOE9NbC0xRGxkV1NtM2daVUZxTTNUdU54WTJTSG00MGE3aV9PZ3RxLS00T0lnaGtCaUo5VkhRVnNqSjND?oc=5\" target=\"_blank\">Flux-Messe-1956</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">packaging journal</font>"
+    }
+  ]
+}
