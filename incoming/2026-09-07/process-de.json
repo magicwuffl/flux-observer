@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-09-07T11:05:46.545651Z",
+  "items": [
+    {
+      "id": "dc8cb480e1344019",
+      "title": "Neuer Zweckverband soll Chemiepark Genthin stärken",
+      "link": "https://www.process.vogel.de/oelriese-chevron-plant-ausbau-in-venezuela-a-f374048567102d57ad5413ae50144ba1/",
+      "published": "2026-09-07",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "31f6302714d5f684",
+      "title": "Aktuelle Veränderungen an den Spitzen der Prozessindustrie",
+      "link": "https://www.process.vogel.de/aktuelle-veraenderungen-an-den-spitzen-der-prozessindustrie-a-8027d08b63d4a1d3274eba1044ca280a/",
+      "published": "2026-09-04",
+      "summary": "Biontech, bp, Optima Pharma, Air Liquide und weitere Unternehmen aus der Prozessindustrie melden Veränderungen an ihrer Spitze. Bei Neumo übernimmt die dritte Generation Verantwortung und Evonik-Chef Kullmann fällt nach einer ungeplanten Operation länger aus. PROCESS fasst die aktuellen Personalmeldungen zusammen."
+    }
+  ]
+}
