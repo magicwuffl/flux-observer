@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-09-09T10:27:52.867488Z",
+  "items": [
+    {
+      "id": "7bb9cdbab0838e2e",
+      "title": "Sicherheit auf trockenem Weg",
+      "link": "https://www.b-und-i.de/sicherheit-trockener-weg-sperrkammersystem-timmer/",
+      "published": "2026-09-07",
+      "summary": "Timmer entwickelt Sperrkammersystem für Doppelmembranpumpen ohne Sperrflüssigkeit – für einfachere Leckageüberwachung und weniger Wartungsaufwand."
+    }
+  ]
+}
