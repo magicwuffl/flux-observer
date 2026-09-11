@@ -1,0 +1,22 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-09-11T10:17:17.729801Z",
+  "items": [
+    {
+      "id": "6e195b3819c9e5ef",
+      "title": "Dem Kaffee auf den Zahn fühlen",
+      "link": "https://www.b-und-i.de/ahlborn-kaffeemaschine-sensor-test-messtechnik/",
+      "published": "2026-09-10",
+      "summary": "Auf der Sensor+Test 2026 zeigte Ahlborn mit einer Kaffeemaschine, wie Temperatur, Druck, Durchfluss und Leistung kontinuierlich erfasst werden."
+    },
+    {
+      "id": "b1f4bb991be064bd",
+      "title": "Vom Datenlogger zur Prognose",
+      "link": "https://www.b-und-i.de/igus-icee2-condition-monitoring-predictive-maintenance/",
+      "published": "2026-09-09",
+      "summary": "Mit dem i.Cee²-Modul präsentiert Igus ein Edge-System für Datenerfassung und Analyse direkt am Schaltschrank – einfacher Einstieg ins Condition Monitoring."
+    }
+  ]
+}
