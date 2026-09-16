@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-09-16T10:34:08.239090Z",
+  "items": [
+    {
+      "id": "b60760765d56f04c",
+      "title": "Flux-Geräte mit neuem Vertriebspartner in Schweden - chemietechnik.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZjTHVtcGNuUlpZMWR2dzA4ellkTEU0cE9ES1daeFF4SnhpZVJsWXJwb3pneTNCbjhobkdLZG9GY0pvOUFORmdRdXdBTHViZFFHWndha2Z6TUlUY3hqTmlTVmNPRnV5c3ZYaktFd2hvaWxfdFFRUU5VaE9tMm9Kc1EtWW9CTjdobjNYYmd4dEtfSUpfY2V0ZnZ3U2JhQjVIdlBlbA?oc=5",
+      "published": "2019-07-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZjTHVtcGNuUlpZMWR2dzA4ellkTEU0cE9ES1daeFF4SnhpZVJsWXJwb3pneTNCbjhobkdLZG9GY0pvOUFORmdRdXdBTHViZFFHWndha2Z6TUlUY3hqTmlTVmNPRnV5c3ZYaktFd2hvaWxfdFFRUU5VaE9tMm9Kc1EtWW9CTjdobjNYYmd4dEtfSUpfY2V0ZnZ3U2JhQjVIdlBlbA?oc=5\" target=\"_blank\">Flux-Geräte mit neuem Vertriebspartner in Schweden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chemietechnik.de</font>"
+    }
+  ]
+}

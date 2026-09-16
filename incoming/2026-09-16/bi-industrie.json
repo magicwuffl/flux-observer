@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-09-16T10:34:10.078481Z",
+  "items": [
+    {
+      "id": "9d24e447a2b13b80",
+      "title": "Gefahrstoffwissen zum Anfassen",
+      "link": "https://www.b-und-i.de/asecos-arbeitsschutz-aktuell-stuttgart-gefahrstoffe/",
+      "published": "2026-09-14",
+      "summary": "Asecos auf der Arbeitsschutz Aktuell in Stuttgart (20.–22. Oktober 2026): Sicherheitsschränke, ION-Line, Fachvorträge und VDSI-anerkannte Seminare."
+    }
+  ]
+}

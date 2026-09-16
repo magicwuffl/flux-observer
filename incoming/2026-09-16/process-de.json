@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-09-16T10:34:08.958485Z",
+  "items": [
+    {
+      "id": "66505c7dfe4fcd44",
+      "title": "Cheplapharm aus Greifswald und Sanofi vor Milliarden-Deal +++ Brand in Labor bei Biontech",
+      "link": "https://www.process.vogel.de/oelriese-chevron-plant-ausbau-in-venezuela-a-f374048567102d57ad5413ae50144ba1/",
+      "published": "2026-09-16",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "eb2991ba79d44a3f",
+      "title": "Baustart für neues Batterielager mit Bahnterminal in Wolfenbüttel",
+      "link": "https://www.process.vogel.de/dp-world-investiert-50-millionen-chemielogistik-wolfenbuettel-a-9668e6e5cc661a8a25afc380f3936784/",
+      "published": "2026-09-15",
+      "summary": "DP World investiert 50 Millionen Euro in den Ausbau seines Chemie-Logistikstandorts in Wolfenbütttel. Die Investition umfasst ein speziell für Lithium-Ionen-Batterien konzipiertes Lager sowie ein neues Bahnterminal und soll die deutsche Chemie- und Automobilindustrie unterstützen."
+    }
+  ]
+}
