@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-09-18T10:18:12.521359Z",
+  "items": [
+    {
+      "id": "0ba7d108b38875b8",
+      "title": "Pumpenpower dank Strömungs-Verständnis: Sensorik für Hochleistungspumpen",
+      "link": "https://www.process.vogel.de/wasserinjektionspumpen-piezoelektrische-drucksensoren-offshore-a-6c3baa916eee8ca844afa171e3abd867/",
+      "published": "2026-03-30",
+      "summary": "Die Öl- und Gasindustrie stellt extrem hohe Anforderungen an Pumpen: Bei der Unterwasserförderung von Erdöl sind leistungsstarke Wasserinjektionspumpen unverzichtbar. Doch wie gut verstehen wir die Strömungsvorgänge im Innern der Aggregate? Ein Pumpenspezialist setzt auf piezoelektrische Drucksensoren für den Durchblick."
+    },
+    {
+      "id": "262cf3e3d35d8357",
+      "title": "Drei Verletzte nach Säureaustritt bei Vetter in Ravensburg",
+      "link": "https://www.process.vogel.de/oelriese-chevron-plant-ausbau-in-venezuela-a-f374048567102d57ad5413ae50144ba1/",
+      "published": "2026-09-16",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}

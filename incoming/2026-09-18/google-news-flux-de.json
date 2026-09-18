@@ -1,0 +1,22 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-09-18T10:18:11.611292Z",
+  "items": [
+    {
+      "id": "ac9b3029c07dc07f",
+      "title": "Flux-Geräte mit neuem Vertriebspartner in Schweden - CHEMIE TECHNIK",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZjTHVtcGNuUlpZMWR2dzA4ellkTEU0cE9ES1daeFF4SnhpZVJsWXJwb3pneTNCbjhobkdLZG9GY0pvOUFORmdRdXdBTHViZFFHWndha2Z6TUlUY3hqTmlTVmNPRnV5c3ZYaktFd2hvaWxfdFFRUU5VaE9tMm9Kc1EtWW9CTjdobjNYYmd4dEtfSUpfY2V0ZnZ3U2JhQjVIdlBlbA?oc=5",
+      "published": "2019-07-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZjTHVtcGNuUlpZMWR2dzA4ellkTEU0cE9ES1daeFF4SnhpZVJsWXJwb3pneTNCbjhobkdLZG9GY0pvOUFORmdRdXdBTHViZFFHWndha2Z6TUlUY3hqTmlTVmNPRnV5c3ZYaktFd2hvaWxfdFFRUU5VaE9tMm9Kc1EtWW9CTjdobjNYYmd4dEtfSUpfY2V0ZnZ3U2JhQjVIdlBlbA?oc=5\" target=\"_blank\">Flux-Geräte mit neuem Vertriebspartner in Schweden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CHEMIE TECHNIK</font>"
+    },
+    {
+      "id": "047cf1bec8e52363",
+      "title": "Pastöses Tomatenmark für Lebensmittelproduktion schonend fördern - Pharma+Food",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXRvTTd3WnhULTBoS2JjNkRqNVhaSFdQRm5HYTFBcTZneDd6eUZ6LWZrM1UtUi1SRXJCSW53Tk1Oazl6aHlocTBRNTExcUhtOVNGR0Zwb09oVnJENHREbktJcTZrZEd0cGVETFhkN1Y3ZDhpUU1tVlJKMW9aN1Jkb1VGYWlYdEVGNldRNnZHZEl2d0VwaHBqWnZNeFNReHhPeVpSTmtJRlpnQ21Ua2NrNkh5bmhyRXlaV2VhSTJsRQ?oc=5",
+      "published": "2026-09-17",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXRvTTd3WnhULTBoS2JjNkRqNVhaSFdQRm5HYTFBcTZneDd6eUZ6LWZrM1UtUi1SRXJCSW53Tk1Oazl6aHlocTBRNTExcUhtOVNGR0Zwb09oVnJENHREbktJcTZrZEd0cGVETFhkN1Y3ZDhpUU1tVlJKMW9aN1Jkb1VGYWlYdEVGNldRNnZHZEl2d0VwaHBqWnZNeFNReHhPeVpSTmtJRlpnQ21Ua2NrNkh5bmhyRXlaV2VhSTJsRQ?oc=5\" target=\"_blank\">Pastöses Tomatenmark für Lebensmittelproduktion schonend fördern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharma+Food</font>"
+    }
+  ]
+}
