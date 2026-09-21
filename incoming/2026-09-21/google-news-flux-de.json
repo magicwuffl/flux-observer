@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-09-21T11:30:36.362265Z",
+  "items": [
+    {
+      "id": "bb89e6f516b03427",
+      "title": "FLUX-Geräte: Abfüllsystem für anspruchsvolle Flüssigkeiten - packaging journal",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aaHhaY3QtbnVab1F4a1lFeFQydnd6S3dtNnJ6Uy01c3dnMmMyWTN6OEhDSlJlUlFVVGlVX1RpVE93RGRuNWFFb2FvTWgzSVNtWFlZVV9yT1pDaGo2OUdxLTRaQzlzUmpVajlCU3dR?oc=5",
+      "published": "2019-09-23",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1aaHhaY3QtbnVab1F4a1lFeFQydnd6S3dtNnJ6Uy01c3dnMmMyWTN6OEhDSlJlUlFVVGlVX1RpVE93RGRuNWFFb2FvTWgzSVNtWFlZVV9yT1pDaGo2OUdxLTRaQzlzUmpVajlCU3dR?oc=5\" target=\"_blank\">FLUX-Geräte: Abfüllsystem für anspruchsvolle Flüssigkeiten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">packaging journal</font>"
+    }
+  ]
+}
