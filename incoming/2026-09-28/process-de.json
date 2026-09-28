@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-09-28T12:26:05.646832Z",
+  "items": [
+    {
+      "id": "84a13fb7cd7bf232",
+      "title": "BASF will Evonik übernehmen",
+      "link": "https://www.process.vogel.de/oelriese-chevron-plant-ausbau-in-venezuela-a-f374048567102d57ad5413ae50144ba1/",
+      "published": "2026-09-25",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "547b9aae3ed8f969",
+      "title": "Kontrollwaagensysteme in der Pharmaproduktion",
+      "link": "https://www.process.vogel.de/kontrollwaagensysteme-in-der-pharmaproduktion-a-d8e4c4f576fa233c61256367904de29d/",
+      "published": "2026-09-25",
+      "summary": "Kontrollwaagen erfassen das Gewicht einzelner Packungen in Bewegung und erkennen Abweichungen von festgelegten Grenzwerten. Dieser erste Teil der Back-to-Basics-Reihe erklärt ihre Rolle bei Füllmengenkontrolle, Vollständigkeitsprüfung und Dokumentation."
+    }
+  ]
+}
