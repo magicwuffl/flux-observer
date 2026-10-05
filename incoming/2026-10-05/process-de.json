@@ -1,0 +1,15 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-05T13:05:44.877624Z",
+  "items": [
+    {
+      "id": "9ebf72b257a04a10",
+      "title": "Brauen ohne Erdgas: Fossilfreier Dampf für das Norderneyer Brauhaus geplant",
+      "link": "https://www.process.vogel.de/renewbrew-fossilfreier-dampf-brauerei-waermepumpen-solarthermie-a-8fab839846753752cf01124aafb6b54c/",
+      "published": "2026-10-05",
+      "summary": "An der Hochschule Hannover entsteht derzeit eine Testanlage, der Hochtemperaturwärmepumpen, Wärmespeicher, Photovoltaik und konzentrierende Solarthermie kombiniert. Im nächsten Schritt soll ein Demonstrator für die Brauerei entwickelt werden."
+    }
+  ]
+}
