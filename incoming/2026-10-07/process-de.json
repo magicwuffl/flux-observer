@@ -1,0 +1,36 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-07T12:21:21.928533Z",
+  "items": [
+    {
+      "id": "5f9fcc53383935a9",
+      "title": "Verbio startet neue Chemieanlage für biobasierte Rohstoffe",
+      "link": "https://www.process.vogel.de/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-a-4391f894e0ee5f295ad22059d46c9913/",
+      "published": "2026-10-07",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "feaa11daf4113abd",
+      "title": "Pumpen-Produktions-Kapazitäten besser planen mit KI",
+      "link": "https://www.process.vogel.de/pumpen-produktions-kapazitaeten-besser-planen-mit-ki-a-2395df08dc72643aa96f950c635bde32/",
+      "published": "2026-10-06",
+      "summary": "Das mittelständische Unternehmen Dickow Pumpen aus Waldkraiburg hat im Rahmen eines KI-Anwendungsprojekts gemeinsam mit dem Mittelstand-Digital Zentrum Augsburg eine KI-basierte Lösung zur Prognose von Fertigungszeiten entwickelt. So kann der Pumpenhersteller seine Kapazitätsplanung verbessern und Fertigungsaufträge zuverlässiger kalkulieren."
+    },
+    {
+      "id": "0f2b7d4e7fb416b7",
+      "title": "Bilfinger schließt Multi-Service-Rahmenvertrag mit Chemieproduzent Delamine",
+      "link": "https://www.process.vogel.de/bilfinger-multi-service-vertrag-delamine-delfzijl-a-92f443dce2b0f489534bdc68af21f2ed/",
+      "published": "2026-10-06",
+      "summary": "Ein gebündelter Serviceumfang soll beim Chemieproduzenten Delamine in Delfzijl den Koordinationsaufwand senken und die Anlagenleistung verbessern. Der dafür geschlossene Rahmenvertrag mit Bilfinger umfasst unter anderem Engineering, Installation und Isolierung."
+    },
+    {
+      "id": "07f4c1894aa39ccb",
+      "title": "Burghausen klagt wegen PFOA-Belastung – Millionenforderungen",
+      "link": "https://www.process.vogel.de/oelriese-chevron-plant-ausbau-in-venezuela-a-f374048567102d57ad5413ae50144ba1/",
+      "published": "2026-10-05",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}
