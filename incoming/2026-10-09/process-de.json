@@ -1,0 +1,29 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-09T12:19:23.926427Z",
+  "items": [
+    {
+      "id": "74b1e6b67979c50a",
+      "title": "Resilienz, Effizienz, Wirtschaftlichkeit: Der Dreiklang der Energiewende für Molkereien und Brauereien",
+      "link": "https://www.process.vogel.de/abwaerme-nutzen-waermepumpen-lebensmittelindustrie-a-9472aa96c00764caeb04f11b2a3bd869/",
+      "published": "2026-10-09",
+      "summary": "Molkereien, Brauereien und Backbetriebe verschenken bislang wertvolle Abwärme aus Kälteanlagen, Sudhaus- oder Ofenprozessen. Mit Industriewärmepumpen, Energiespeichern und digitalem Energiemanagement lässt sich dieses Potenzial systematisch erschließen."
+    },
+    {
+      "id": "8e7bbc8e495f74dd",
+      "title": "Tödlicher Arbeitsunfall auf BASF-Gelände",
+      "link": "https://www.process.vogel.de/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-a-4391f894e0ee5f295ad22059d46c9913/",
+      "published": "2026-10-09",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "545a62b2c570854c",
+      "title": "Neue Antriebe machen Pumpen fit: Mit Zuverlässigkeit und Effizienz",
+      "link": "https://www.process.vogel.de/retrofit-energieeffiziente-antriebe-schneckenpumpen-klaeranlage-daun-a-e75bcb52dc8bb915d27de5c5776d4ac3/",
+      "published": "2026-10-08",
+      "summary": "Wenn es um langlebige und energieeffiziente Antriebslösungen geht, braucht es passende Partner – auch in der Wasser- und Abwasserwirtschaft. In der Kläranlage Daun wurden zwei zentrale Schneckenpumpen mit neuer Antriebstechnik ausgestattet. Mit dem Retrofit erhielt der Betreiber ein Komplettpaket aus einer Hand."
+    }
+  ]
+}
