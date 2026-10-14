@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-14T10:53:40.490371Z",
+  "items": [
+    {
+      "id": "dda61920a6cd88e6",
+      "title": "Sanofi und EU einigen sich in Kartellverfahren zu Impfstoff",
+      "link": "https://www.process.vogel.de/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-a-4391f894e0ee5f295ad22059d46c9913/",
+      "published": "2026-10-14",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "b1d868aeca089f6c",
+      "title": "Maag gewinnt Fakuma Innovation Award für PVC-Pumpe",
+      "link": "https://www.process.vogel.de/maag-gewinnt-fakuma-innovation-award-fuer-pvc-pumpe-a-bb1c3258393c31d4068653492e46a51d/",
+      "published": "2026-10-13",
+      "summary": "Die Maag-Gruppe hat bei der 30. Fakuma den erstmals vergebenen Innovation Award in der Kategorie Extrusion gewonnen. Die Jury zeichnete die Zahnradpumpe Extrex⁶ EC aus."
+    }
+  ]
+}

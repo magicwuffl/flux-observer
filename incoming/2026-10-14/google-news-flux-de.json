@@ -1,0 +1,15 @@
+{
+  "source": "google-news-flux-de",
+  "name": "Google News (FLUX DE)",
+  "category": "aggregator",
+  "scraped_at": "2026-10-14T10:53:39.603383Z",
+  "items": [
+    {
+      "id": "ee8f019645fe7b18",
+      "title": "Neue FLUX Website erleichtert Pumpenauswahl und Ersatzteilsuche - impeller.net",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU9ZTDJ5dUoyZmQ4YTQ4d3o0dVdyNldMV1c2dEMzLVpxclJkN0I4aEdxcXpHc2FGNVRGNFhldF9jdW04RWpaUEJUeDE0ZHlrT1hzSkZsX21HeVRMNk1Wd0FPanBaT0FTdFJRMURZa18xckh1UFd1UlI0UHYzb2sxMlc2YTd6TDJxWVE4STVQWWV6NGxENXZkdTBpd2tPaEZ4YmVz?oc=5",
+      "published": "2026-10-12",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU9ZTDJ5dUoyZmQ4YTQ4d3o0dVdyNldMV1c2dEMzLVpxclJkN0I4aEdxcXpHc2FGNVRGNFhldF9jdW04RWpaUEJUeDE0ZHlrT1hzSkZsX21HeVRMNk1Wd0FPanBaT0FTdFJRMURZa18xckh1UFd1UlI0UHYzb2sxMlc2YTd6TDJxWVE4STVQWWV6NGxENXZkdTBpd2tPaEZ4YmVz?oc=5\" target=\"_blank\">Neue FLUX Website erleichtert Pumpenauswahl und Ersatzteilsuche</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">impeller.net</font>"
+    }
+  ]
+}
