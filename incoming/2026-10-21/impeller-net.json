@@ -1,0 +1,29 @@
+{
+  "source": "impeller-net",
+  "name": "impeller.net (Online-Pumpenmagazin)",
+  "category": "media",
+  "scraped_at": "2026-10-21T10:53:16.595751Z",
+  "items": [
+    {
+      "id": "8d6929ce5ba16b9f",
+      "title": "ELGi Compressors s.r.l.",
+      "link": "https://impeller.net/company-catalog/elgi-compressors-s-r-l/",
+      "published": "2026-10-21",
+      "summary": ""
+    },
+    {
+      "id": "122ef6c7e5a2fd78",
+      "title": "Patriot Products Group",
+      "link": "https://impeller.net/company-catalog/patriot-products-group/",
+      "published": "2026-10-20",
+      "summary": ""
+    },
+    {
+      "id": "feee840bc82e6d17",
+      "title": "LiqTech International, Inc.",
+      "link": "https://impeller.net/company-catalog/liqtech-international-inc/",
+      "published": "2026-10-20",
+      "summary": ""
+    }
+  ]
+}
