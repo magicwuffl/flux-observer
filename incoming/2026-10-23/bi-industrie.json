@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-10-23T10:44:47.339590Z",
+  "items": [
+    {
+      "id": "96ea4cec435bdaff",
+      "title": "Schneller passende Pumpen und Ersatzteile finden",
+      "link": "https://www.b-und-i.de/flux-geraete-pumpen-ersatzteile-finder/",
+      "published": "2026-10-22",
+      "summary": "Flux-Geräte hat seinen Webauftritt überarbeitet: Neue Filter, ein interaktiver Ersatzteilfinder und kürzere Ladezeiten erleichtern die Pumpenauswahl."
+    }
+  ]
+}
