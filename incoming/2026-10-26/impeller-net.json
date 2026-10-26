@@ -1,0 +1,22 @@
+{
+  "source": "impeller-net",
+  "name": "impeller.net (Online-Pumpenmagazin)",
+  "category": "media",
+  "scraped_at": "2026-10-26T11:55:44.232618Z",
+  "items": [
+    {
+      "id": "ee75c20c76db3b75",
+      "title": "Referro Systems (Pty) Ltd",
+      "link": "https://impeller.net/company-catalog/referro-systems-pty-ltd/",
+      "published": "2026-10-26",
+      "summary": ""
+    },
+    {
+      "id": "99c0b0fb21deb1f5",
+      "title": "Hamburg Messe und Congress GmbH",
+      "link": "https://impeller.net/company-catalog/hamburg-messe-und-congress-gmbh/",
+      "published": "2026-10-26",
+      "summary": ""
+    }
+  ]
+}

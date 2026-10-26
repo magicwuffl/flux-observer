@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-26T11:55:43.945846Z",
+  "items": [
+    {
+      "id": "2c25918c6b3d16f6",
+      "title": "Land sichert Stilllegung von Leuna Polyamid ab",
+      "link": "https://www.process.vogel.de/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-a-4391f894e0ee5f295ad22059d46c9913/",
+      "published": "2026-10-26",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    },
+    {
+      "id": "a9a5716e2c4b1125",
+      "title": "Westfalen-Gruppe investiert Millionenbetrag in die Produktion natürlicher Kältemittel",
+      "link": "https://www.process.vogel.de/westfalen-anlage-hochreines-propan-r-290-muenster-gelmer-a-33b5287bf46266be749d71b3ccea255f/",
+      "published": "2026-10-25",
+      "summary": "Hochreines Propan kommt als natürliches Kältemittel vor allem in Wärmepumpen zum Einsatz. Die Westfalen-Gruppe hat in Münster-Gelmer eine neue Produktionsanlage in Betrieb genommen und dafür einen niedrigen zweistelligen Millionenbetrag investiert."
+    }
+  ]
+}
