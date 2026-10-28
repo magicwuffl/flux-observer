@@ -1,0 +1,29 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-28T11:52:35.673778Z",
+  "items": [
+    {
+      "id": "1eb01d3ab9695ae7",
+      "title": "Von Datenerfassung bis zur intelligenten Prozesssteuerung",
+      "link": "https://www.process.vogel.de/von-datenerfassung-bis-zur-intelligenten-prozesssteuerung-a-4a07407f0a26ec126ec7df56d1f664bb/",
+      "published": "2026-10-26",
+      "summary": "Die Anforderungen an industrielle Prozesse steigen kontinuierlich. Anlagen müssen flexibel, wirtschaftlich und zugleich hochverfügbar arbeiten. Genau dafür entwickelt Jumo Lösungen, die den gesamten Weg von der Datenerfassung bis zur intelligenten Prozesssteuerung abdecken."
+    },
+    {
+      "id": "1e574ab8428ffb56",
+      "title": "Wärmemanagement für Industrie und Fernwärme: Von der Wärmepumpe zur Digitalplattform",
+      "link": "https://www.process.vogel.de/waermemanagement-fuer-industrie-und-fernwaerme-von-der-waermepumpe-zur-digitalplattform-a-34d0f854a026e6724ccad3a02f9c1547/",
+      "published": "2026-10-26",
+      "summary": "Auf der Chillventa 2026 präsentierte Johnson Controls Lösungen für industrielle und gewerbliche Anwendungen sowie für die Fernwärmeversorgung. Das Portfolio umfasst Hochtemperatur-Wärmepumpen, Kältemaschinen, Steuerungstechnik und digitale Plattformen. Das Unternehmen richtet sich damit unter anderem an Betreiber von Rechenzentren, Produktionsstätten und biotechnologischen Anlagen."
+    },
+    {
+      "id": "4747be1f7761e4fb",
+      "title": "Konzernumbau, Sparprogramme und Stellenabbau: BASF verdient mehr und hebt erneut Prognose an",
+      "link": "https://www.process.vogel.de/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-a-4391f894e0ee5f295ad22059d46c9913/",
+      "published": "2026-10-26",
+      "summary": "Im ständig aktuellen Newsticker fasst die PROCESS-Redaktion das Geschehen in der Branche kompakt zusammen. Ob Chemie-, Pharma-, oder Lebensmittelindustrie, alle verfahrenstechnischen Themen werden – ebenso wie politische und wirtschaftliche Nachrichten zur Prozessindustrie – zusammengefasst."
+    }
+  ]
+}
