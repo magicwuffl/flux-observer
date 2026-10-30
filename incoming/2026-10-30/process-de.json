@@ -1,0 +1,22 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-10-30T11:53:59.104119Z",
+  "items": [
+    {
+      "id": "b353a78edc17289d",
+      "title": "Neue CEOs, Vorstände und Geschäftsführungen in der Prozessindustrie",
+      "link": "https://www.process.vogel.de/neue-ceos-vorstaende-und-geschaeftsfuehrungen-in-der-prozessindustrie-a-dc822d365b94bc3158c850c220aa41c0/",
+      "published": "2026-10-29",
+      "summary": "Neurizon, Roche, Schill+Seilacher, Air Products und weitere Unternehmen aus der Prozessindustrie melden Veränderungen an ihrer Spitze. Bei Unitax zieht sich Gründer André Reich aus dem operativen Geschäft zurück, während VTU zwei neue Vice Presidents berufen hat. PROCESS fasst die aktuellen Personalmeldungen zusammen."
+    },
+    {
+      "id": "610a189da790618e",
+      "title": "Wärmepumpen für Industrieprozesse und Wärmenetze",
+      "link": "https://www.process.vogel.de/waermepumpen-fuer-industrieprozesse-und-waermenetze-a-27a8d835c84e7351831e9c7a91fe02f7/",
+      "published": "2026-10-29",
+      "summary": "Industrieprozesse benötigen große Mengen Wärme – häufig als Heißwasser, Druckheißwasser oder Dampf. Groß- und Hochtemperaturwärmepumpen gelten als die zentrale Alternative zur fossilen Wärmeerzeugung. Dazu müssen Anlagen, Komponenten und Betriebsführung auf hohe Temperaturen und dynamische Einsatzbedingungen ausgelegt werden."
+    }
+  ]
+}
