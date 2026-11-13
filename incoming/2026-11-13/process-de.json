@@ -1,0 +1,15 @@
+{
+  "source": "process-de",
+  "name": "PROCESS (Vogel)",
+  "category": "media",
+  "scraped_at": "2026-11-13T13:40:40.955412Z",
+  "items": [
+    {
+      "id": "a6f44a5892fc53c4",
+      "title": "Bewährtes Fach- und Lehrbuch „Kunststoffverarbeitung“ erscheint in 12. Auflage",
+      "link": "https://www.process.vogel.de/kunststoffverarbeitung-12-auflage-additive-fertigung-spritzgiessen-a-e53c8577fedb3008705b6d5f9ee487d3/",
+      "published": "2026-11-12",
+      "summary": "Die vollständig aktualisierte &lt;a class=\"inf-text-link\" target=\"_blank\" href=\"https://vogel-professional-education.de/kunststoffverarbeitung-12.-auflage/978-3-8343-3556-2\"%gt;Neuauflage &lt;/a%gt;wurde mit einem Kapitel zur additiven Fertigung ergänzt. Das Kapitel „Spritzgießen“ wurde umfassend überarbeitet."
+    }
+  ]
+}
