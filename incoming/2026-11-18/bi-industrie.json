@@ -1,0 +1,15 @@
+{
+  "source": "bi-industrie",
+  "name": "B&I Industrie-Zeitung (Betriebstechnik)",
+  "category": "media",
+  "scraped_at": "2026-11-18T14:50:46.426109Z",
+  "items": [
+    {
+      "id": "c6f90b30a64c0867",
+      "title": "Für 45.000 Kubikmeter heißes Wasser",
+      "link": "https://www.b-und-i.de/bilfinger-fernwaermespeicher-malmoe-eon/",
+      "published": "2026-11-17",
+      "summary": "Bilfinger baut für E.ON einen 70 Meter hohen Fernwärmespeicher in Malmö mit 45.000 m³ Fassungsvermögen und 2.400 MWh Kapazität."
+    }
+  ]
+}
