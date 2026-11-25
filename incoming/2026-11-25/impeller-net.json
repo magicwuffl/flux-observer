@@ -1,0 +1,15 @@
+{
+  "source": "impeller-net",
+  "name": "impeller.net (Online-Pumpenmagazin)",
+  "category": "media",
+  "scraped_at": "2026-11-25T16:30:30.001765Z",
+  "items": [
+    {
+      "id": "586fb7ee1ecfa795",
+      "title": "Pulson GmbH",
+      "link": "https://impeller.net/company-catalog/pulson-gmbh/",
+      "published": "2026-11-24",
+      "summary": ""
+    }
+  ]
+}
